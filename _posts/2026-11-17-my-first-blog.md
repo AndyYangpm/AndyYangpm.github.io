@@ -29,7 +29,6 @@ math: true
 
 ## 二、图片展示
 
-![实验图片](/assets/img/my-experiment.png)
 
 ## 三、数学公式
 
